@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Lokesh
+
+**About me: **
+
+-🌱 Learning more about Core Java and Advanced Java.
+-🎓 Self Taught and always learning by seeking out new challenges.
+-💼 Currently looking for opportunities for Full Time employment as a Developer.
+
 
 <!--
 **lokeshbs1994/lokeshbs1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
