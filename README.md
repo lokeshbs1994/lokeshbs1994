@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Lokesh
 
-**About me: **
+About me:
 
 -🌱 Learning more about Core Java and Advanced Java.
 -🎓 Self Taught and always learning by seeking out new challenges.
