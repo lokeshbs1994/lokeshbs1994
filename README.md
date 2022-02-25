@@ -2,9 +2,9 @@
 
 About me:
 
--🌱 Learning more about Core Java and Advanced Java.
--🎓 Self Taught and always learning by seeking out new challenges.
--💼 Currently looking for opportunities for Full Time employment as a Developer.
+- 🌱 Learning more about Core Java and Advanced Java.
+- 🎓 Self Taught and always learning by seeking out new challenges.
+- 💼 Currently looking for opportunities for Full Time employment as a Developer.
 - 📫 How to reach me: lokeshbs619@gmail.com.
 
 
