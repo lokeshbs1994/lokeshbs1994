@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **core java and advanced java**
 
+- 🤔 Exploring technologies such as HTML, CSS, Javascript, React, Node.js, Express and MongoDB.
+
 - 🎓 Self Taught and always learning by seeking out new challenges.
 
 - 💼 Currently looking for opportunities for Full Time employment as a Developer
