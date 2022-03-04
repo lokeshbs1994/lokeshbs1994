@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences
 <br>• Worked in Merchant navy for 1years 7months in Westline shipping management as a Trainee Electrical/Navigation Engineer.
-<br>• A dynamic professional with around 3 years of valuable exposure in GIS field, involved with LiDAR and PTG.• Currently getting trained in bridgeLabz on various technologies.
+<br>• A dynamic professional with around 3 years of valuable exposure in GIS field, involved with LiDAR and PTG.
 <br>• Currently getting trained in bridgeLabz on various technologies.
 
 <h3 align="left">Connect with me:</h3>
