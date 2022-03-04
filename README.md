@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Coding" width="600" height="400">
+<img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Coding" width="600" height="300">
 <h1 align="center">Hi 👋, I'm Lokesh B S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
