@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **lokeshbs619@gmail.com**
 
+- 🎓 Self Taught and always learning by seeking out new challenges.
+
+- 💼 Currently looking for opportunities for Full Time employment as a Developer
+
 - 📄 Know about my experiences
 <br>• Worked in Merchant navy for 1years 7months in Westline shipping management as a Trainee Electrical/Navigation Engineer.
 <br>• A dynamic professional with around 3 years of valuable exposure in GIS field, involved with LiDAR and PTG.• Currently getting trained in bridgeLabz on various technologies.
