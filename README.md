@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **core java and advanced java**
+- 🌱 I’m currently learning **core java, advanced java, Dart programming and Flutter technology**
 
-- 🤔 Exploring technologies such as HTML, CSS, Javascript, React, Node.js, Express and MongoDB.
+- 🤔 Exploring technologies such as HTML, CSS, Javascript, React, Node.js, MySql and Firebase.
 
 - 🎓 Self Taught and always learning by seeking out new challenges.
 
