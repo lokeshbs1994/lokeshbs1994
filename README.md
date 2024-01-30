@@ -1,6 +1,6 @@
 <img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Coding" width="600" height="300">
 <h1 align="center">Hi 👋, I'm Lokesh B S</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionat Mobile Application Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshbs1994&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshbs1994" /> </p>
 
